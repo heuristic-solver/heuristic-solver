@@ -18,7 +18,7 @@
 
 <!-- Centered heading styled like a header -->
 <p align="center" style="font-weight: bold; font-size: 1.5em; margin-bottom: 0.5em;">
-  Socials:
+ # Socials:
 </p>
 
 <!-- Social badges inline -->
