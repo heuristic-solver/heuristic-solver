@@ -16,17 +16,19 @@
 - Gen AI | Computer Vision | Fin Modeling  
 - Currently learning Quantum Computing
 
-<table align="center">
-  <tr>
-    <td align="center">
+<p align="center">
+  ## Socials:
+</p>
 
-## Socials:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joelalexj/)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@joelalexjohn9)  
 
-<br>
+<br />
 
-# Tech Stack:<br>
+<p align="center">
+  # Tech Stack:
+</p>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
@@ -36,22 +38,28 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 
-<br>
+<br />
 
-# GitHub Stats:<br>
-<img src="https://github-readme-stats.vercel.app/api?username=heuristic-solver&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br>  
-<img src="https://nirzak-streak-stats.vercel.app/?user=heuristic-solver&theme=dark&hide_border=true" alt="GitHub Streak" /><br>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heuristic-solver&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />  
+<p align="center">
+  # GitHub Stats:
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heuristic-solver&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=heuristic-solver&theme=dark&hide_border=true" alt="GitHub Streak" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heuristic-solver&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
-### A Legendary Quote<br>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Legendary Quote" />
+<br />
 
-<br>
+<p align="center">
+  ### A Legendary Quote
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Legendary Quote" />
+</p>
+
+<br />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-    </td>
-  </tr>
-</table>
