@@ -1,16 +1,12 @@
-## Hi there 👋
+  _____  ___   ___  _   _   ___   ____  _  __
+ |  ___|/ _ \ / _ \| | | | / _ \ |  _ \| |/ /
+ | |_  | | | | | | | |_| || | | || | | | ' / 
+ |  _| | |_| | |_| |  _  || |_| || |_| | . \ 
+ |_|    \___/ \___/|_| |_| \___/ |____/|_|\_\
 
-<!--
-**heuristic-solver/heuristic-solver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+           N O T   Y O U R   A V E R A G E   D E V
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Christ University | GPA: 3.96 / 4  
+• Full-Time Coder · Part-Time Philanthropist  
+• Gen AI | Computer Vision | Fin Modeling  
+• Currently learning Quantum Computing  
