@@ -18,7 +18,7 @@
 
 <div align="center">
 
-# Socials:
+# Socials
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-# Tech Stack:
+# Tech Stack
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-# GitHub Stats:
+# GitHub Stats
 
 </div>
 
